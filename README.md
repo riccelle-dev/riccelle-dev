@@ -1,13 +1,13 @@
 <!-- Banner dinâmico ondulado em Verde Floresta -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B281E,50:1B4332,100:2D6A4F&height=200&section=header&text=Vit%C3%B3ria%20Riccelle&fontSize=42&fontColor=E8F5E9&animation=fadeIn&fontAlignY=38&desc=Sistemas%20de%20Informa%C3%A7%C3%A3o%20%E2%80%A2%20Desenvolvimento%20%26%20Dados&descAlignY=62&descSize=16" width="100%" alt="Banner Vitória Riccelle" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=200&section=header&text=Vit%C3%B3ria%20Riccelle&fontSize=42&fontColor=E8F5E9&animation=fadeIn&fontAlignY=38&desc=Sistemas%20de%20Informa%C3%A7%C3%A3o%20-%20Desenvolvimento%20e%20Dados&descAlignY=62&descSize=16" width="100%" alt="Banner Vitória Riccelle" />
 </div>
 
 <h2 align="center">Bem-vindo(a) ao meu perfil! 🌿</h2>
 
 <!-- Texto com efeito de digitação animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&width=650&lines=Graduanda+em+Sistemas+de+Informa%C3%A7%C3%A3o+(6%C2%BA+Per%C3%ADodo);Desenvolvedora+Java%2C+Node.js%2C+Python+%26+SQL;Mentora+no+Technovation+Girls+%26+Projeto+ColaBora" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&width=650&lines=Graduanda+em+Sistemas+de+Informa%C3%A7%C3%A3o+(6%C2%BA+Per%C3%ADodo);Desenvolvedora+Java%2C+Node.js%2C+Python+e+SQL;Mentora+no+Technovation+Girls+e+Projeto+ColaBora" alt="Typing SVG" />
 </div>
 
 <br>
