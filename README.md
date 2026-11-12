@@ -71,3 +71,6 @@
     <img src="https://img.shields.io/badge/E--mail-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
+    <img src="https://img.shields.io/badge/E--mail-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
